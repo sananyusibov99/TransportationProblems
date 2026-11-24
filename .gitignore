@@ -1,0 +1,6 @@
+# Local PyCharm files
+.idea/.gitignore
+.idea/workspace.xml
+.idea/dataSources/
+.idea/dataSources.local.xml
+__pycache__/
